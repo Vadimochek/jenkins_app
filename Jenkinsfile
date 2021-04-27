@@ -4,7 +4,7 @@ pipeline {
         stage('Run'){
 
             steps {
-                echo 'Hello, run jdk!'
+                echo 'Work is go normal!'
             }
         }
     }
